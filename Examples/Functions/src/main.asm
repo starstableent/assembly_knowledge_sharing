@@ -4,9 +4,8 @@
 SomeStruct struct
 	a byte 0
 	byte 3 dup(0)
-	;byte 0
 	b dword 0
-    c dword 0
+	c dword 0
 	d byte 0
 	
 SomeStruct ends
